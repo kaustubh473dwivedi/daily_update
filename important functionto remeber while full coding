@@ -1,3 +1,5 @@
 __builtin_popcount
 lower bound in set array vector 
 s.insert(s.size(), "forGeeks");
+accumulate
+stoi *nmax_element
