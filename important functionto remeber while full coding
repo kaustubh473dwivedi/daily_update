@@ -3,3 +3,5 @@ lower bound in set array vector
 s.insert(s.size(), "forGeeks");
 accumulate
 stoi *nmax_element
+int dp[text1Length + 1][text2Length + 1];
+memset(dp, 0, sizeof dp);
