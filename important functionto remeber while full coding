@@ -5,3 +5,6 @@ accumulate
 stoi *nmax_element
 int dp[text1Length + 1][text2Length + 1];
 memset(dp, 0, sizeof dp);
+ std::sort(words.begin(), words.end(), [](const std::string& s1, const std::string& s2) {
+        return s1.length() < s2.length();
+    });
