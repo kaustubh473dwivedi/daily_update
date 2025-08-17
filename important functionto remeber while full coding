@@ -8,3 +8,10 @@ memset(dp, 0, sizeof dp);
  std::sort(words.begin(), words.end(), [](const std::string& s1, const std::string& s2) {
         return s1.length() < s2.length();
     });
+int len = (int)(log2(n));
+  
+	// Store in bitset to get the binary representation, 
+  	// then convert it to string
+  	// and finally remove the prefix zeroes
+  	
+    return bitset<64>(n).to_string().substr(64 - len - 1);
