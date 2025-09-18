@@ -54,3 +54,4 @@ https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-grap
 https://leetcode.com/problems/longest-cycle-in-a-graph/submissions/1769871352/?envType=problem-list-v2&envId=vejntpp2
 https://leetcode.com/problems/path-sum-ii/submissions/1769935345/?envType=problem-list-v2&envId=vejntpp2
 https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1770864739/?envType=problem-list-v2&envId=vejntpp2
+Question : Think about how we find longest Bitonic subsequnce i.e the sequence which first increases and the decreases ?
